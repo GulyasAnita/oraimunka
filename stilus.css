@@ -1,0 +1,7 @@
+main, header, footer, aside, article, nav{
+    border: 1px solid gray;
+}
+
+.row{
+    margin: auto;
+}
